@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(https://png.pngtree.com/background/20210712/original/pngtree-abstract-background-with-soft-color-picture-image_1178976.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    top: 10%;
+}
+
+
+li button{
+    margin-left: 5%;
+}
+
+input{
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 5%;
+    height: 7%;
+}
+
+.card {
+    width: 30%;
+    height: 300px;
+    margin-top: 7%;
+    background-color: #a4c9ee;
+    border-radius: 8px;
+    z-index: 1;
+    margin-left: 34%;
+}
+
+.tools {
+    display: flex;
+    align-items: center;
+    padding: 9px;
+}
+
+.circle {
+    padding: 0 4px;
+   }
+   
+   .box {
+    display: inline-block;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    padding: 1px;
+    border-radius: 50%;
+   }
+   
+   .red {
+    background-color: #ff605c;
+   }
+   
+   .yellow {
+    background-color: #ffbd44;
+   }
+   
+   .green {
+    background-color: #00ca4e;
+   }
+   
